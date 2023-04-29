@@ -1,8 +1,14 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/command-z3r0?tab=repositories)
 
 <p align="center">
+	<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
   <a href="https://command-z3r0.github.io">
-  <img src="z3r0.png" style="transform: scale(1.5);/>
+  <img src="z3r0.png"/>
 </p>
 
 <samp>
