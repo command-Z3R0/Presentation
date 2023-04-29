@@ -1,8 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/command-z3r0?tab=repositories)
 
-[![command-Z3R0](https://github.com/command-Z3R0/command-Z3R0/blob/main/z3r0.png)](https://command-z3r0.github.io)
 <p align="center">
-  <img src="z3r0.png" alt="Descripción de la imagen" width="500"/>
+  <a href="https://command-z3r0.github.io">
+  <img src="z3r0.png" alt="Descripción de la imagen"/>
 </p>
 
 <samp>
