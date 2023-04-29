@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=99e836)
 
 
-## 💻 Toosl
+## 💻 Tools
 
 ![](https://img.shields.io/badge/Browser-TOR-informational?style=flat&logo=Tor-Browser&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
