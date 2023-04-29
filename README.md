@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://command-z3r0.github.io">
-  <img src="z3r0.png" alt="Descripción de la imagen"/>
+  <img src="z3r0.png" style="transform: scale(1.5);/>
 </p>
 
 <samp>
