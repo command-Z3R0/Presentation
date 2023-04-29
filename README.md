@@ -57,10 +57,10 @@
 
 ## 💻 IDEs/Editors
 
-[](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2b%2b&logoColor=white&color=99e836)
-[](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=99e836)
-[](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
-[](https://img.shields.io/badge/Editor-Obsidian-informational?style=flat&logo=obsidian&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2b%2b&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-Obsidian-informational?style=flat&logo=obsidian&logoColor=white&color=99e836)
 
 
 ## 📋 Languages 
