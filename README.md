@@ -28,14 +28,11 @@
 ## 💻 Operating Systems
  
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-BlackArch-informational?style=flat&logo=archlinux&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-kali-informational?style=flat&logo=kalilinux&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-Parrot%20Sec-informational?style=flat&logo=linux&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=99e836)
 
 
-## 💻 Tools
+## 💻 Skills and Tools
 
 ![](https://img.shields.io/badge/Browser-TOR-informational?style=flat&logo=Tor-Browser&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
@@ -52,24 +49,12 @@
 ![](https://img.shields.io/badge/Tools-ExploitDB-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
-
-
-## 💾 Databases
-	
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=99e836)
-
-
-## 💻 IDEs/Editors
-
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2b%2b&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Editor-Obsidian-informational?style=flat&logo=obsidian&logoColor=white&color=99e836)
-
-
-## 📋 Languages 
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2b%2b&logoColor=white&color=99e836)
