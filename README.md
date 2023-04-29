@@ -13,7 +13,7 @@
 
 
 
-- 🎲 Interests : CTF, researching and learning about cybersecurity, and ethical hacking.
+- 🎲 Interests : CTF, researching and learning about cybersecurity and ethical hacking.
 
  
 
