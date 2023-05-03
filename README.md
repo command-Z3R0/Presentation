@@ -17,8 +17,6 @@
 
  
 
-- 📧 Contact Me : <a href="mailto:command.z3r0@gmail.com">via email</a>
-
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
   
