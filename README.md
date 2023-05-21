@@ -40,6 +40,7 @@
 ![](https://img.shields.io/badge/Tools-Wireshark-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Sqlmap-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Metasploit-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Tools-Hashcat-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Gobuster-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Burpsuite-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Tools-Maltego-informational?style=flat&logo=windowsterminal&logoColor=white&color=99e836)
