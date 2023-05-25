@@ -24,7 +24,7 @@
  ## My blogs
 - Blog ES-es [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://command-z3r0.github.io)
   
-- Blog in FR-fr [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
+- Blog FR-fr [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
 
 
 ## 💻 Operating Systems
