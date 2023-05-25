@@ -22,7 +22,9 @@
 
   
  ## My blogs
--My blog in Spanish [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://command-z3r0.github.io)--My blog in French  [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
+- My blog in Spanish [![Portfolio](https://img.shields.io/badge/-Pagina%20Web-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://command-z3r0.github.io)
+  
+- My blog in French  [![Portfolio](https://img.shields.io/badge/-Page%20Web-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
 
 
 ## 💻 Operating Systems
