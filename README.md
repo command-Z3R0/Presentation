@@ -23,11 +23,8 @@
   
  ## 👨🏽‍💻 Websites
   
-- Blog ES-es [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://command-z3r0.github.io)
-  
-- Blog FR-fr [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
-
-
+  [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://command-z3r0.github.io)
+ 
 ## 💻 Operating Systems
  
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=99e836)
