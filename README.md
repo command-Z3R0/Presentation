@@ -74,7 +74,7 @@
 
 ## 💬 Social Links
 
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/command.z3r0)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/command_Z3R0)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=bc2a8d)](https://instagram.com/commander.z3r0)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=Twitter&logoColor=00acee)](https://twitter.com/commander_Z3R0)
 
 </samp>
