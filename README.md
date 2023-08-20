@@ -58,7 +58,6 @@
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Editor-Obsidian-informational?style=flat&logo=obsidian&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2b%2b&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=99e836)
