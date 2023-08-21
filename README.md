@@ -63,7 +63,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=99e836)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Code-Duckyscript-informational?style=flat&logo=shell&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-Duckyscript-informational?style=flat&logo=ducky&logoColor=white&color=99e836)
 
 
 
