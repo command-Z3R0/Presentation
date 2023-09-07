@@ -26,10 +26,3 @@
   
   [![Portfolio](https://img.shields.io/badge/-Web%20Site-000000?style=flat&logo=gnu-bash&logoColor=99e836)](https://commander-z3r0.github.io)
  
-## 💻 Operating Systems
- 
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=99e836)
-
-
